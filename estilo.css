@@ -1,0 +1,14 @@
+body {
+	background: yellow;	
+}
+h1 {
+	font-size: 72px;
+	color: blue;
+}
+h2 {
+	font-size: 36px;
+	color: red;
+}
+p {
+	font-size: 30px;
+}
